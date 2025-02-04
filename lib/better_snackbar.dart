@@ -6,7 +6,7 @@ import 'package:toastification/toastification.dart';
 
 import 'better_container_decoration.dart';
 import 'better_spacing.dart';
-import 'better_text_size.dart';
+import 'text/better_text_size.dart';
 
 
 betterSnackBar({
