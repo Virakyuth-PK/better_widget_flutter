@@ -1,0 +1,25 @@
+name: better_widget_flutter
+description: "A better version of widget but still use other widget for Flutter"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.17
+  toastification: ^2.3.0
+  get: ^4.6.6
+  better_utils_flutter:
+    git: https://github.com/Virakyuth-PK/better_utils_flutter.git
+    version: 0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
